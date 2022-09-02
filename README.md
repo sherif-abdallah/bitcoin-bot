@@ -4,7 +4,7 @@ Bitcoint bot is a general purpose mini-framework for developing an algorithmic t
 
 
 ## Table of Content
-- [Bitcoin-Bot](#Pong-Game)
+- [Bitcoin-Bot](#Bitcoin-Bot)
   * [Tools](#tools)
   * [How to run](#how-to-run)
   * [Author](#author)
