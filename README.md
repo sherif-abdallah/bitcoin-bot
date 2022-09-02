@@ -1,11 +1,23 @@
-# Bitcoin-Telegram-Bot
+# Bitcoin-Bot
 
-<li>You Can Read Telegram Api Documentation To Know How it works <a target="_blank" href="https://core.telegram.org/bots/api">Telegram Api Documentation</a>
-<br>
-<li>You Can Get API Key From <a target="_blank" href="https://coinmarketcap.com/api">Coinmarketcap Api</a>
-<br>
-<li>You Can Get bot key from This Telegram bot <a target="_blank" href="https://web.telegram.org/z/#93372553">@BotFather</a>
-<br>
-<li>You Can Get Your Chat ID from This Telegram bot <a target="_blank" href="https://web.telegram.org/z/#1115273825">@GetIDBotbot</a>
-</ul>
+Bitcoint bot is a general purpose mini-framework for developing an algorithmic trading bot on crypto currencies, thus it makes no assumption of your bitcoin goals.
 
+
+## Table of Content
+- [Bitcoin-Bot](#Pong-Game)
+  * [Tools](#tools)
+  * [How to run](#how-to-run)
+  * [Author](#author)
+
+## Tools
+1. Python
+2. Telegram API
+
+## How to run
+* Enter the directory where the script is located then type the following to the console
+```Bash
+python main.py
+```
+
+## Author
+[Sherif Abdullah](https://github.com/sherif-abdallah)
